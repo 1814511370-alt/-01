@@ -1,0 +1,4 @@
+data/
+daidai-linux-amd64
+*.pid
+*.log
