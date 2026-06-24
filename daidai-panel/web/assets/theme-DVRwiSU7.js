@@ -1,0 +1,1 @@
+import{h as o,i as r,w as m}from"./app-core-vBN2OH8Q.js";import{d as s}from"./index-CrovhjAs.js";const c=o("theme",()=>{const e=r(localStorage.getItem("theme")==="dark");function a(){e.value=!e.value}return m(e,t=>{document.documentElement.classList.toggle("dark",t),localStorage.setItem("theme",t?"dark":"light"),s()},{immediate:!0}),{isDark:e,toggleTheme:a}});export{c as u};

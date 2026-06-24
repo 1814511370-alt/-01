@@ -1,4 +1,5 @@
 data/
 daidai-linux-amd64
+daidai-panel/daidai-linux-amd64
 *.pid
 *.log

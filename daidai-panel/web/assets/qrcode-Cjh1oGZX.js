@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/qrcode-BP3WxDUY.js","assets/vendor-B76mBsvT.js","assets/app-core-vBN2OH8Q.js"])))=>i.map(i=>d[i]);
+import{b as n}from"./index-CrovhjAs.js";async function c(t,a=220){const{toDataURL:r}=await n(async()=>{const{toDataURL:o}=await import("./qrcode-BP3WxDUY.js").then(e=>e.b);return{toDataURL:o}},__vite__mapDeps([0,1,2]));return r(t,{width:a,margin:2})}export{c};
