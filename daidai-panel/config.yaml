@@ -1,5 +1,5 @@
 server:
-  port: 5700
+  port: 5701
   mode: release
 
 database:
